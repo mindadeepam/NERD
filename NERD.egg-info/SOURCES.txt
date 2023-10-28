@@ -1,0 +1,15 @@
+README.md
+setup.py
+NERD/__init__.py
+NERD/ner.py
+NERD/nerdlogin.py
+NERD/sklearn_extras.py
+NERD/tabular.py
+NERD/text.py
+NERD.egg-info/PKG-INFO
+NERD.egg-info/SOURCES.txt
+NERD.egg-info/dependency_links.txt
+NERD.egg-info/top_level.txt
+NERD/html_templates/ner_trainer.html.j2
+NERD/html_templates/text_classifier.html
+NERD/html_templates/usermanagement.html
